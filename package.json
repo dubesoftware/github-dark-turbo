@@ -1,0 +1,26 @@
+{
+    "name": "github-dark-turbo",
+    "displayName": "GitHub Dark Turbo",
+    "description": "A fork of the GitHub Dark theme with colour tweaks aimed at improved focus.",
+    "version": "0.3.0",
+    "publisher": "DubeSoftware",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitHub Dark Turbo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GitHub Dark Turbo-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dubesoftware/github-dark-turbo.git"
+    }
+}

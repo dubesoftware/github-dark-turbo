@@ -2,7 +2,7 @@
     "name": "github-dark-turbo",
     "displayName": "GitHub Dark Turbo",
     "description": "A fork of the GitHub Dark theme with colour tweaks aimed at improved focus.",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "publisher": "DubeSoftware",
     "engines": {
         "vscode": "^1.48.0"

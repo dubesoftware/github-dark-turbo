@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.5.8] - 2020-09-09
 ### Changed
-- Merge upstream changes to fork (Add support for statusBarItem.prominentBackground, update README, update CHANGELOG and bump version)
+- Merge upstream changes to fork (add support for statusBarItem.prominentBackground, update README, update CHANGELOG and bump version)
 
 ## [0.5.7] - 2020-09-08
 ### Changed

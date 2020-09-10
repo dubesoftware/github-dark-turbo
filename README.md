@@ -14,8 +14,7 @@ A fork of the [*GitHub Theme*](https://github.com/primer/github-vscode-theme)'s 
 
 To quickly test something, you can also override this (or any other) theme in your personal config file. Please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
 
-##
-Sample image shows Ruby on Rails 6 code from [Michael Hartl](https://github.com/mhartl)'s excellent [Ruby on Rails Tutorial](https://www.learnenough.com/ruby-on-rails-6th-edition). For this and other *top rated* courses, visit [Learn Enough](https://www.learnenough.com/).
+## Credits
+The sample image shows Ruby on Rails 6 code from [Michael Hartl](https://github.com/mhartl)'s excellent [Ruby on Rails Tutorial](https://www.learnenough.com/ruby-on-rails-6th-edition). For this and other *top rated* courses, visit [Learn Enough](https://www.learnenough.com/).
 
-##
 Theme icon made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

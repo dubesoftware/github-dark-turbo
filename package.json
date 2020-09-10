@@ -3,13 +3,27 @@
     "displayName": "GitHub Dark Turbo",
     "description": "A fork of the GitHub Theme's dark mode, with colour tweaks aimed at improved focus.",
     "version": "0.5.8",
+    "preview": true,
     "publisher": "DubeSoftware",
+    "license": "MIT",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#161a1d",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.48.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"theme",
+        "github",
+        "githubdark",
+        "githubdarkturbo",
+		"dark"
+	],
     "contributes": {
         "themes": [
             {

@@ -2,7 +2,7 @@
     "name": "github-dark-turbo",
     "displayName": "GitHub Dark Turbo",
     "description": "A fork of the GitHub Theme's dark mode, with colour tweaks aimed at improved focus.",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "preview": true,
     "publisher": "DubeSoftware",
     "license": "MIT",
